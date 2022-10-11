@@ -4,7 +4,7 @@
 
 • **Información general:**
 
-"Livnus" es una aplicación de consola que encripta / desencripta mensajes en un cifrado de mi autoría ("Cifrado Livnus"). Este último está inspirado en la tabla periódica de los elementos - elementos químicos - y, más allá de la "digitalización", es un proceso que puede realizarse manualmente prescindiendo de cualquier dispositivo tecnológico que automatice el proceso. Podrán "visualizar" el algoritmo de encriptación / desencriptado dentro del programa mismo (password: "livnus127").
+"Livnus" es una aplicación de consola que encripta / desencripta mensajes en un cifrado de mi autoría ("Cifrado Livnus"). Este último está inspirado en la tabla periódica de los elementos - elementos químicos - y, más allá de la "digitalización", es un proceso que puede realizarse manualmente prescindiendo de cualquier dispositivo tecnológico que automatice el proceso. Podrán "visualizar" el algoritmo de encriptación / desencriptado dentro del programa mismo. Clave: "livnus127".
 
 ![livnusMuestra](https://user-images.githubusercontent.com/101758311/195215701-8b9cca9f-489c-4aac-820b-b5f880ec75ab.png)
 
